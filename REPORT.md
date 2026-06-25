@@ -1,7 +1,7 @@
 # Lab 21 — Evaluation Report
 
 **Học viên**: Nguyễn Văn Duy  
-**Mã số sinh viên**: <Điền MSSV của bạn>  
+**Mã số sinh viên**: 2A202600725  
 **Ngày nộp**: 2026-06-25  
 **Submission option**: A (Lightweight ZIP với bộ adapter r=16)
 
